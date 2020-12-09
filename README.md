@@ -12,7 +12,7 @@
 2. Nodo js have to be installed to your PC.
 
 ### Clone this repository to the {app dir} on your host:
-1. 
+1. https://github.com/LaurynasPOC/Restaurants-and-thei-dishes-CRUD
 2. And run this CLI command inside of the {app-directory}: 
 composer install
 * if composer is not installed globally, run command: "php composer.phar install"
