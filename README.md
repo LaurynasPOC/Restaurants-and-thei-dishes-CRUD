@@ -9,7 +9,7 @@
 # Setup
 ### Note:
 1. composer.phar have to be installed globally or reached from Crud folder.
-2. Nodo js have to be installed to your PC.
+2. Node js have to be installed to your PC.
 
 ### Clone this repository to the {app dir} on your host:
 1. https://github.com/LaurynasPOC/Restaurants-and-thei-dishes-CRUD
